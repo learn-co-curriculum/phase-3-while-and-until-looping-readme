@@ -1,4 +1,4 @@
-# Looping with 'while' and 'until'
+# Looping with while and until
 
 ## Objectives
 
