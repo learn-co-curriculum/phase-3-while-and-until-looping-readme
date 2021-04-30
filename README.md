@@ -61,7 +61,7 @@ puts "You ate a total of #{num_of_hotdogs_eaten} hot dogs!"
 
 ## `until`
 
-`Until` is simply the inverse of a `while` loop. An `until` keyword will keep executing a block *until a specific condition is true*. In other words, the block of code following `until` will execute while the condition is false. One helpful way to think about it is to read `until` as "if not".
+`until` is simply the inverse of a `while` loop. An `until` keyword will keep executing a block *until a specific condition is true*. In other words, the block of code following `until` will execute while the condition is false. One helpful way to think about it is to read `until` as "if not".
 
 ```ruby
 counter = 0
